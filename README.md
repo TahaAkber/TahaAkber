@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaakber&label=Profile%20views&color=0e75b6&style=flat" alt="tahaakber" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kolnice" target="blank"><img src="https://img.shields.io/twitter/follow/kolnice?logo=twitter&style=for-the-badge" alt="kolnice" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Koln1ce" target="blank"><img src="https://img.shields.io/twitter/follow/kolnice?logo=twitter&style=for-the-badge" alt="kolnice" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS and MernStack Web Development**
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kolnice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koln1ce" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taha akber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha akber" height="30" width="40" /></a>
-<a href="https://fb.com/taha akber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taha akber" height="30" width="40" /></a>
+<a href="https://twitter.com/Koln1ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koln1ce" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taha-akber-006829266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha akber" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kolnice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taha akber" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
