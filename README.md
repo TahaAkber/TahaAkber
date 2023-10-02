@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Akber</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width ="400" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaakber&label=Profile%20views&color=0e75b6&style=flat" alt="tahaakber" /> </p>
