@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **tahaakber007@gmail.com**
 
+- Want to know about me? Head to **https://taha-myportfolio.netlify.app**
+
 - ⚡ Fun fact **I think I have a great sense of humor and can make you happy at any moment. :)**
 
 <h3 align="left">Connect with me:</h3>
