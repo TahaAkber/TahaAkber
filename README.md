@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/Koln1ce" target="blank"><img src="https://img.shields.io/twitter/follow/kolnice?logo=twitter&style=for-the-badge" alt="kolnice" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and MernStack Web Development**
+- 🌱 Currently working as a **Full Stack Developer** Intern in **Co-VenTech**
+
+- 🌱 currently learning **ReactJS and MernStack Web Development**
 
 - 👯 I’m looking to collaborate on **Front and Backend Web Development**
 
