@@ -75,7 +75,7 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
   </a>
   <a href="https://remix.run" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/remix-run/remix/main/assets/remix-logo.svg" alt="shopify remix" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/475678/shopify-color.svg" alt="shopify remix" width="40" height="40"/>
   </a>
 </p>
 
